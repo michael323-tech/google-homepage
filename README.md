@@ -1,0 +1,1 @@
+Mike's first project in coding. I had to reference a multitude of pages since I am new to this and could not remember the flow or all of the code in which steps they were accomplished. Accidentally pathed to wrong folders and files in wrong places but slowly am figuring it out.
